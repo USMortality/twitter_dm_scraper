@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+/out/usa-county_month_5y.csv
+/out/usa-county_month_10y.csv
+/out/usa-county_month_20y.csv
+/out/usa-county_population_2000-2023.csv
